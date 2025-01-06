@@ -31,5 +31,5 @@ terraform.tfstate*
 .vscode
 
 #
-*/docs
-*/Makefile
+**/docs
+**/Makefile
