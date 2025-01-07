@@ -7,7 +7,7 @@ Auto Scaling Group:
 Reference: https://www.tencentcloud.com/zh/document/product/377
 
 ## Examples
-- [as-group](../../../examples/as-group) - A complete example of as-group
+- [as-group](../../../examples/as-group/main.tf) - A complete example of as-group
 ## Requirements
 
 | Name | Version |
