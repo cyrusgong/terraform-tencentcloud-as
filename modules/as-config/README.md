@@ -7,7 +7,7 @@ Auto Scaling Group Config:
 Reference: https://www.tencentcloud.com/document/product/377/3579?lang=en&pg=
 
 ## Examples
-- [AS-Config](../../examples/as-config) - A complete example of as-config
+- [as-config](../../examples/as-config) - A complete example of as-config
 
 ## usage
 ```hcl
